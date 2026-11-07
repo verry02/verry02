@@ -7,7 +7,7 @@
 ---
 
 ### About me
-My background combines linguistic studies (English, Spanish, French) with technical skills in software development and data analysis. During my bachelor's degree, I collaborated with **Gesan THC S.r.l.** to develop a booking management chatbot, and I am now deepening my knowledge of Machine Learning and Big Data in my master's program.
+During my bachelor's degree, I collaborated with **Gesan THC S.r.l.** to develop a booking management chatbot, and I am now deepening my knowledge of Machine Learning and Big Data in my master's program.
 
 I am currently working on my master's thesis: a **serious game for learning SQL**, featuring a challenge mode against AI models.
 
